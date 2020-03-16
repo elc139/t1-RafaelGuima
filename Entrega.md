@@ -9,7 +9,7 @@ Nome: < preencha seu nome aqui >
 | Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
 | Classificação de Flynn                                    |                       |                 |
 | Memória: compartilhada, distribuída ou ambas?             |                       |                 |
-| Número total de núcleos de processamento                  |                       |                 |
+| Número total de núcleos de processamento                  |                       |        2         |
 | Fabricante e modelo do(s) processador(es)                 |                       |                 |
 | Frequência do(s) processador(es)                          |                       |                 |
 | Memória total                                             |                       |                 |
